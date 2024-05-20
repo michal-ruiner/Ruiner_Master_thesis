@@ -1,0 +1,51 @@
+####################### CAPTURED DEVICES
+Device: 00:0c:29:2a:8e:72
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX46:914f', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXa2:8947', '2001:f:b:a:9487:792:47ae:703e', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0003', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX86:9433', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf0:edab', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX0a:02a8', 'fe80::e734:2b41:5223:b9c9'}
+Device: 00:0c:29:ab:0f:fa
+IP addresses: {'2001:f:b:c:8113:10ce:5b30:a7be', '2001:f:b:a:c517:46a5:862a:f730', '2001:f:b:b::a5', '192.168.0.7', 'fe80::c517:46a5:862a:f730', '2001:f:b:c:c517:46a5:862a:f730', '2001:f:b:b:8113:10ce:5b30:a7be', '2001:f:b:b:c517:46a5:862a:f730', '2001:f:b:e:8113:10ce:5b30:a7be', '2001:f:b:d:8113:10ce:5b30:a7be', '2001:f:b:a:8113:10ce:5b30:a7be', '2001:f:b:e:c517:46a5:862a:f730', '2001:f:b:d:c517:46a5:862a:f730'}
+Device: 00:0c:29:49:04:db
+IP addresses: {'2001:f:b:a:43f6:31fc:4480:309b', '2001:f:b:d:6842:be51:157f:e1f7', '2001:f:b:e:56a4:90d2:1f89:63ec', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:8955', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0004', '2001:f:b:c:d704:4a16:d9aa:1e8', '2001:f:b:b:d37e:f48:ff38:1339', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX56:bffb', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXfc:ee73', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:5923', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX32:5fb5', 'fe80::f396:bb03:162c:7a59'}
+Device: 00:0c:29:4e:8c:88
+IP addresses: {'2001:f:b:b:a0e0:c25a:14a4:642e', '2001:f:b:a:5ca:a3ff:d244:5ddf', '192.168.0.4', '2001:f:b:e:5ca:a3ff:d244:5ddf', '2001:f:b:e:a0e0:c25a:14a4:642e', '2001:f:b:d:a0e0:c25a:14a4:642e', '2001:f:b:b::ac', '2001:f:b:c:5ca:a3ff:d244:5ddf', '2001:f:b:d:5ca:a3ff:d244:5ddf', 'fe80::a0e0:c25a:14a4:642e', '2001:f:b:b:5ca:a3ff:d244:5ddf', '2001:f:b:a:a0e0:c25a:14a4:642e', '2001:f:b:c:a0e0:c25a:14a4:642e'}
+Device: 00:50:56:c0:00:02
+IP addresses: {'fe80::87ee:f1:2dc0:5ff', '192.168.191.1'}
+Device: 00:0c:29:8d:e4:6d
+IP addresses: {'2001:f:b:b:26d4:8b3d:af4e:847a', '2001:f:b:e:8443:9daa:2158:9769', '2001:f:b:c:5408:f100:68ab:e418', 'fe80::3179:3a32:e87c:605c', '2001:f:b:d:ee37:172:a315:9903', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX8d:e46d', '2001:f:b:a:e516:653b:50c3:9c8d'}
+Device: ca:01:06:01:00:00
+IP addresses: {'2001:f:b:d::1', '2001:f:b:c::1', 'fe80::c801:6ff:fe01:0', '2001:f:b:b::1', '2001:f:b:a::1', '2001:f:b:e::1'}
+Device: 00:0c:29:e8:8d:81
+IP addresses: {'fe80::20c:29ff:fee8:8d81', '2001:f:b:e:20c:29ff:fee8:8d81', '2001:f:b:d:20c:29ff:fee8:8d81', '2001:f:b:a:20c:29ff:fee8:8d81', '2001:f:b:b::b', '2001:f:b:c:20c:29ff:fee8:8d81'}
+####################### OUTPUT OF PTNET
+Device: 00:0c:29:2a:8e:72
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX46:914f', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXa2:8947', '2001:f:b:a:9487:792:47ae:703e', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0003', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX86:9433', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf0:edab', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX0a:02a8', 'fe80::e734:2b41:5223:b9c9'}
+Device: 00:0c:29:49:04:db
+IP addresses: {'2001:f:b:a:43f6:31fc:4480:309b', '2001:f:b:e:56a4:90d2:1f89:63ec', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0004', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:8955', '2001:f:b:c:d704:4a16:d9aa:1e8', '2001:f:b:b:d37e:f48:ff38:1339', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX56:bffb', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXfc:ee73', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX32:5fb5', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:5923', '2001:f:b:d:6842:be51:157f:e1f7', 'fe80::f396:bb03:162c:7a59'}
+Device: 00:0c:29:4e:8c:88
+IP addresses: {'2001:f:b:b:a0e0:c25a:14a4:642e', '2001:f:b:a:5ca:a3ff:d244:5ddf', '192.168.0.4', '2001:f:b:e:5ca:a3ff:d244:5ddf', '2001:f:b:e:a0e0:c25a:14a4:642e', '2001:f:b:d:a0e0:c25a:14a4:642e', '2001:f:b:b::ac', '2001:f:b:c:5ca:a3ff:d244:5ddf', '2001:f:b:d:5ca:a3ff:d244:5ddf', 'fe80::a0e0:c25a:14a4:642e', '2001:f:b:b:5ca:a3ff:d244:5ddf', '2001:f:b:a:a0e0:c25a:14a4:642e', '2001:f:b:c:a0e0:c25a:14a4:642e'}
+Device: 00:0c:29:8d:e4:6d
+IP addresses: {'2001:f:b:b:26d4:8b3d:af4e:847a', '2001:f:b:e:8443:9daa:2158:9769', '2001:f:b:c:5408:f100:68ab:e418', 'fe80::3179:3a32:e87c:605c', '2001:f:b:d:ee37:172:a315:9903', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX8d:e46d', '2001:f:b:a:e516:653b:50c3:9c8d'}
+Device: 00:0c:29:ab:0f:fa
+IP addresses: {'2001:f:b:c:8113:10ce:5b30:a7be', '2001:f:b:a:c517:46a5:862a:f730', '2001:f:b:b::a5', '192.168.0.7', '2001:f:b:b:8113:10ce:5b30:a7be', '2001:f:b:c:c517:46a5:862a:f730', 'fe80::c517:46a5:862a:f730', '2001:f:b:b:c517:46a5:862a:f730', '2001:f:b:e:8113:10ce:5b30:a7be', '2001:f:b:d:8113:10ce:5b30:a7be', '2001:f:b:a:8113:10ce:5b30:a7be', '2001:f:b:e:c517:46a5:862a:f730', '2001:f:b:d:c517:46a5:862a:f730'}
+Device: 00:0c:29:e8:8d:81
+IP addresses: {'fe80::20c:29ff:fee8:8d81', '2001:f:b:e:20c:29ff:fee8:8d81', '2001:f:b:d:20c:29ff:fee8:8d81', '2001:f:b:a:20c:29ff:fee8:8d81', '2001:f:b:b::b', '2001:f:b:c:20c:29ff:fee8:8d81'}
+Device: 00:50:56:c0:00:02
+IP addresses: {'fe80::87ee:f1:2dc0:5ff', '192.168.191.1'}
+Device: ca:01:06:01:00:00
+IP addresses: {'2001:f:b:d::1', '2001:f:b:c::1', 'fe80::c801:6ff:fe01:0', '2001:f:b:b::1', '8.8.8.8', '2001:f:b:a::1', '2001:f:b:e::1'}
+##############################################
+##############
+Number of devices captured by the verifyAddresses script: 8
+Number of devices captured by the verifyAddresses script: 67
+###
+Number of devices captured by the ptnetinspector: 8
+Number of Addresses captured by the ptnetinspector: 68
+##############
+
+##############
+Every device and address captured was also found in the ptnet output.
+##############
+
+##############
+The address 8.8.8.8 was not found in the captured results for the ca:01:06:01:00:00 node.
+Some addresses were not found or the set is empty.
+##############

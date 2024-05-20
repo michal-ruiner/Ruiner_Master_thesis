@@ -1,0 +1,432 @@
+=========================================
+= Information about inserted parameters =
+=========================================
+[93m[i][0m Interface: eth0
+[93m[i][0m Disabling json output
+[93m[i][0m Temporary files are not deleted after all
+[93m[i][0m Using mode passive
+[93m[i][0m Displaying only basic detail (except for mode 802.1x)
+[93m[i][0m Passive duration: 30.0s
+========================
+= Passive scan running =
+========================
+[92m[✓][0m Number of devices found: 102
+[93m[i][0m Device number 1: (Host)
+    MAC   00:c2:c6:1f:80:dd
+    IPv4  100.64.132.253
+    IPv6  fe80::4192:edf:c703:4819
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX03:49da (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX95:7744 (possible address)
+[93m[i][0m Device number 2: (Host)
+    MAC   04:68:65:4f:b8:f7
+    IPv4  100.64.128.205
+    IPv6  fe80::1c21:ce0c:18f7:8a9d
+[93m[i][0m Device number 3: (Host)
+    MAC   06:18:ba:16:4d:35
+    IPv4  100.64.134.163
+    IPv6  fe80::1036:b26a:153c:8cd3
+[93m[i][0m Device number 4: (Host)
+    MAC   08:5b:d6:3f:02:b9
+    IPv4  100.64.132.184
+[93m[i][0m Device number 5: (Host)
+    MAC   08:f8:bc:5d:89:0e
+    IPv4  100.64.132.232
+    IPv6  fe80::106c:5d66:97b9:508c
+[93m[i][0m Device number 6: (Host)
+    MAC   0c:9a:3c:6d:cc:89
+    IPv6  fe80::3687:9c9f:2020:b45f
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXe5:7c13 (possible address)
+[93m[i][0m Device number 7: (Host)
+    MAC   10:51:07:88:6a:80
+    IPv4  100.64.130.127
+    IPv6  2001:67c:1220:98a1:3bcb:6f4e:1f2c:be86
+    IPv6  2001:67c:1220:98a1:c064:9104:1bba:6d7f
+    IPv6  fe80::c0d7:3fa8:fd8a:56db
+[93m[i][0m Device number 8: (Host)
+    MAC   14:13:33:ae:82:61
+    IPv4  100.64.129.76
+[93m[i][0m Device number 9: (Host)
+    MAC   14:98:77:57:6c:38
+    IPv4  100.64.135.41
+    IPv6  fe80::c4b:b425:b22f:884a
+[93m[i][0m Device number 10: (Host)
+    MAC   1a:79:10:5e:2c:52
+    IPv4  100.64.134.220
+    IPv6  fe80::10ec:2585:2ac0:d0f
+[93m[i][0m Device number 11: (Host)
+    MAC   1a:ba:80:45:6d:19
+    IPv4  100.64.134.237
+    IPv6  fe80::1030:67be:38f2:d57a
+[93m[i][0m Device number 12: (Host)
+    MAC   1c:91:80:d3:4c:37
+    IPv4  100.64.135.16
+    IPv6  fe80::184b:cb8b:d774:a344
+[93m[i][0m Device number 13: (Host)
+    MAC   22:8e:39:e3:7b:1d
+    IPv4  100.64.133.105
+[93m[i][0m Device number 14: (Host)
+    MAC   2a:93:de:ee:bb:d1
+    IPv4  100.64.132.24
+    IPv6  fe80::c76:d512:a8fa:97d
+[93m[i][0m Device number 15: (Host)
+    MAC   2a:d0:8e:1a:70:38
+    IPv4  100.64.131.115
+    IPv6  fe80::e0:dfc2:924a:1031
+[93m[i][0m Device number 16: (Host)
+    MAC   2e:1a:61:6c:24:49
+    IPv4  100.64.134.206
+    IPv6  fe80::c06:415a:3177:a3b9
+[93m[i][0m Device number 17: (Host)
+    MAC   30:03:c8:8e:35:6b
+    IPv4  100.64.134.238
+[93m[i][0m Device number 18: (Host)
+    MAC   34:36:3b:d2:a1:0a
+    IPv4  100.64.128.147
+    IPv6  fe80::41e:e6f8:f736:1c34
+[93m[i][0m Device number 19: (Host)
+    MAC   34:6f:24:86:7f:a5
+    IPv4  100.64.133.139
+[93m[i][0m Device number 20: (Host)
+    MAC   3a:22:bd:3c:de:59
+    IPv4  100.64.128.63
+    IPv6  fe80::1096:59ef:a1b0:97b7
+[93m[i][0m Device number 21: (Host)
+    MAC   3a:84:48:e3:08:c4
+    IPv4  100.64.134.79
+    IPv6  fe80::18e4:8f2d:1000:f79c
+[93m[i][0m Device number 22: (Host)
+    MAC   3a:f4:cd:6a:e5:7e
+    IPv4  100.64.132.57
+[93m[i][0m Device number 23: (Host)
+    MAC   40:74:e0:50:f3:7a
+    IPv4  100.64.129.82
+[93m[i][0m Device number 24: (Host)
+    MAC   40:ec:99:ef:c9:69
+    IPv4  100.64.133.180
+[93m[i][0m Device number 25: (Host)
+    MAC   42:ab:8d:ab:29:85
+    IPv4  100.64.132.1
+    IPv6  fe80::40ab:8dff:feab:2985
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0000 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXce:f9df (possible address)
+[93m[i][0m Device number 26: (Host)
+    MAC   44:85:00:bf:8d:67
+    IPv4  100.64.135.225
+[93m[i][0m Device number 27: (Host)
+    MAC   4a:d6:c3:ea:22:16
+    IPv4  100.64.134.208
+[93m[i][0m Device number 28: (Host)
+    MAC   4c:1d:96:39:de:83
+    IPv4  100.64.132.100
+[93m[i][0m Device number 29: (Host)
+    MAC   50:50:a4:72:1c:8a
+    IPv4  100.64.132.56
+    IPv6  2001:67c:1220:98a1:45c9:2d87:d07b:cc2
+    IPv6  2001:67c:1220:98a1:b5f6:5ada:10fe:77d6
+    IPv6  fe80::38b9:a891:d6d:6f83
+[93m[i][0m Device number 30: (Host)
+    MAC   50:de:06:ca:5e:64
+    IPv4  100.64.135.144
+    IPv6  fe80::10f1:3c9a:67bb:80f1
+[93m[i][0m Device number 31: (Host)
+    MAC   50:ed:3c:1a:f5:b6
+    IPv4  100.64.132.186
+    IPv6  fe80::18d5:e67f:9c34:b4a4
+[93m[i][0m Device number 32: (Host)
+    MAC   52:75:90:90:5d:d3
+    IPv4  100.64.135.61
+    IPv6  2001:67c:1220:98a1:821:f774:ec1f:daf6
+    IPv6  fe80::14d4:f1fd:82a1:392d
+[93m[i][0m Device number 33: (Host)
+    MAC   5a:3d:a3:4a:6f:f8
+    IPv4  100.64.132.230
+    IPv6  fe80::1ce9:34ee:9832:5902
+[93m[i][0m Device number 34: (Host)
+    MAC   5a:93:dc:fe:e2:e5
+    IPv4  100.64.129.211
+    IPv6  fe80::5893:dcff:fefe:e2e5
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXed:62a6 (possible address)
+[93m[i][0m Device number 35: (Host)
+    MAC   5a:e7:7d:20:36:5e
+    IPv4  100.64.133.99
+[93m[i][0m Device number 36: (Host)
+    MAC   5c:96:9d:7c:58:81
+    IPv4  100.64.130.158
+    IPv6  fe80::32:dd02:68c8:4fb5
+[93m[i][0m Device number 37: (Host)
+    MAC   5e:47:59:20:38:34
+    IPv4  100.64.129.159
+    IPv6  fe80::1080:225c:5b52:cb3e
+[93m[i][0m Device number 38: (Host)
+    MAC   5e:9d:5f:80:9e:1c
+    IPv6  fe80::5c9d:5fff:fe80:9e1c
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdd:c37f (possible address)
+[93m[i][0m Device number 39: (Host)
+    MAC   60:67:20:c5:70:60
+    IPv4  100.64.131.83
+[93m[i][0m Device number 40: (Host)
+    MAC   60:e9:aa:5c:f6:87
+    IPv4  100.64.131.129
+[93m[i][0m Device number 41: (Host)
+    MAC   62:4b:41:33:07:56
+    IPv4  100.64.130.26
+    IPv6  fe80::604b:41ff:fe33:756
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX9b:6766 (possible address)
+[93m[i][0m Device number 42: (Host)
+    MAC   62:4d:43:43:92:89
+    IPv4  100.64.130.97
+    IPv6  fe80::1837:d8f6:be32:ec0b
+[93m[i][0m Device number 43: (Host)
+    MAC   64:5d:86:90:a2:18
+    IPv4  100.64.134.98
+    IPv6  2001:67c:1220:98a1:2589:48f3:28a8:3d16
+    IPv6  2001:67c:1220:98a1:f9af:2835:e3dd:c62f
+    IPv6  fe80::b321:1338:a264:449f
+[93m[i][0m Device number 44: (Host)
+    MAC   66:7d:a9:b2:80:12
+    IPv4  100.64.135.224
+    IPv6  fe80::1c19:9b50:658:6fab
+[93m[i][0m Device number 45: (Host)
+    MAC   68:54:5a:8e:44:eb
+    IPv4  100.64.129.198
+[93m[i][0m Device number 46: (Host)
+    MAC   6c:7e:67:ce:b8:b7
+    IPv4  100.64.131.208
+    IPv6  fe80::10f8:780d:d972:d23c
+[93m[i][0m Device number 47: (Host)
+    MAC   6e:b3:e5:f1:5a:40
+    IPv4  100.64.133.7
+    IPv6  fe80::f100:30fd:eccc:c76c
+[93m[i][0m Device number 48: (Host)
+    MAC   72:a9:dc:54:e5:85
+    IPv4  100.64.133.73
+    IPv6  fe80::1cc9:831d:c869:987
+[93m[i][0m Device number 49: (Host)
+    MAC   72:bf:9d:8b:c8:25
+    IPv4  100.64.132.154
+    IPv6  fe80::70bf:9dff:fe8b:c825
+[93m[i][0m Device number 50: (Host)
+    MAC   72:e2:c2:4d:8a:8d
+    IPv4  100.64.129.102
+    IPv6  fe80::53:fa53:75a:2e60
+[93m[i][0m Device number 51: (Host)
+    MAC   74:3a:f4:69:39:b2
+    IPv4  100.64.134.234
+[93m[i][0m Device number 52: (Host)
+    MAC   76:08:04:a1:08:a7
+    IPv4  100.64.129.250
+    IPv6  fe80::7408:4ff:fea1:8a7
+[93m[i][0m Device number 53: (Host)
+    MAC   78:d6:dc:1b:80:41
+    IPv4  100.64.134.26
+[93m[i][0m Device number 54: (Host)
+    MAC   7c:24:99:ed:d3:3b
+    IPv4  100.64.129.252
+    IPv6  fe80::56:f7ff:cfa4:a943
+[93m[i][0m Device number 55: (Host)
+    MAC   7e:09:3c:94:85:58
+    IPv4  100.64.134.46
+    IPv6  fe80::106e:a171:76da:f367
+[93m[i][0m Device number 56: (Host)
+    MAC   7e:17:59:78:40:0b
+    IPv4  100.64.133.235
+    IPv6  fe80::5a:e4e6:c461:9033
+[93m[i][0m Device number 57: (Host)
+    MAC   7e:36:b4:d6:a7:4a
+    IPv4  100.64.131.87
+    IPv6  fe80::1806:d523:59a8:e0f5
+[93m[i][0m Device number 58: (Host)
+    MAC   7e:89:3c:d9:05:f4
+    IPv6  fe80::7c89:3cff:fed9:5f4
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf4:3534 (possible address)
+[93m[i][0m Device number 59: (Host)
+    MAC   7e:b4:d2:17:13:23
+    IPv4  100.64.135.186
+    IPv6  2001:67c:1220:98a1:4ea:f20b:94e2:843d
+    IPv6  fe80::1497:d1d7:628d:f016
+[93m[i][0m Device number 60: (Host)
+    MAC   82:ac:9e:65:2a:6d
+    IPv6  fe80::80ac:9eff:fe65:2a6d
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXcb:5f05 (possible address)
+[93m[i][0m Device number 61: (Host)
+    MAC   86:09:68:e7:c5:c7
+    IPv4  100.64.132.19
+    IPv6  fe80::468:eac1:ee44:7213
+[93m[i][0m Device number 62: (Host)
+    MAC   86:a9:27:48:eb:52
+    IPv4  100.64.129.138
+[93m[i][0m Device number 63: (Host)
+    MAC   8c:3b:4a:43:2f:d0
+    IPv6  fe80::30de:13c4:ed65:5e8d
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXd5:c74f (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdb:b31a (possible address)
+[93m[i][0m Device number 64: (Host)
+    MAC   92:35:93:95:17:f7
+    IPv4  100.64.132.199
+[93m[i][0m Device number 65: (Host)
+    MAC   96:b1:82:5c:7f:09
+    IPv4  100.64.134.149
+    IPv6  fe80::8be:b5cf:3371:5f04
+[93m[i][0m Device number 66: (Host)
+    MAC   9a:fd:ab:43:0f:dc
+    IPv4  100.64.128.224
+    IPv6  fe80::434:666c:79e3:c21f
+[93m[i][0m Device number 67: (Host)
+    MAC   9c:28:f7:8b:de:94
+    IPv4  100.64.129.231
+    IPv6  2001:67c:1220:98a1:389f:189e:5359:131
+    IPv6  2001:67c:1220:98a1:6c0d:a0:b76b:3a34
+    IPv6  fe80::699d:ac77:1be6:5a41
+[93m[i][0m Device number 68: (Host)
+    MAC   a0:a8:cd:3b:99:c6
+    IPv4  100.64.134.224
+    IPv6  2001:67c:1220:98a1:a49b:47b4:b4fb:744f
+    IPv6  2001:67c:1220:98a1:b069:e03d:4223:82a5
+    IPv6  fe80::b069:e03d:4223:82a5
+[93m[i][0m Device number 69: (Host)
+    MAC   a4:34:d9:55:b1:d5
+    IPv4  100.64.130.119
+[93m[i][0m Device number 70: (Host)
+    MAC   a4:4b:d5:22:2a:b0
+    IPv4  100.64.134.242
+    IPv6  2001:67c:1220:98a1:a31d:b6f2:5631:58a2
+    IPv6  2001:67c:1220:98a1:d988:fa93:f7fd:e13d
+    IPv6  fe80::a4b6:f21b:ef36:a99
+[93m[i][0m Device number 71: (Host)
+    MAC   a6:04:90:52:97:80
+    IPv4  100.64.132.3
+    IPv6  fe80::a404:90ff:fe52:9780
+[93m[i][0m Device number 72: (Host)
+    MAC   a6:23:35:19:29:70
+    IPv4  100.64.131.134
+    IPv6  fe80::1c60:79c8:7bd:36ac
+[93m[i][0m Device number 73: (Host)
+    MAC   a8:64:f1:e2:e2:94
+    IPv4  100.64.129.121
+    IPv6  fe80::1c80:276f:b000:c4ea
+[93m[i][0m Device number 74: (Host)
+    MAC   a8:9c:ed:4b:3a:03
+    IPv4  100.64.132.62
+    IPv6  fe80::aa9c:edff:fe4b:3a03
+[93m[i][0m Device number 75: (Host)
+    MAC   b0:3c:dc:26:57:19
+    IPv4  100.64.129.83
+    IPv6  2001:67c:1220:98a1:5041:6f5b:8442:df8
+    IPv6  2001:67c:1220:98a1:7474:afb0:74bb:77fd
+    IPv6  fe80::2be9:61c:5f65:f96b
+[93m[i][0m Device number 76: (Host)
+    MAC   b2:3c:85:89:04:f2
+    IPv4  100.64.132.158
+    IPv6  2001:67c:1220:98a1:896:230f:3e83:e3f1
+    IPv6  fe80::7a:2f01:5609:f372
+[93m[i][0m Device number 77: (Host)
+    MAC   bc:6e:e2:b7:66:be
+    IPv4  100.64.132.86
+[93m[i][0m Device number 78: (Host)
+    MAC   bc:a8:a6:ce:ca:e8
+    IPv4  100.64.131.174
+[93m[i][0m Device number 79: (Host)
+    MAC   c0:95:6d:30:a3:ae
+    IPv4  100.64.131.96
+    IPv6  2001:67c:1220:98a1:c12:cab0:cd48:56ad
+    IPv6  fe80::1c1b:3eff:db10:2aac
+[93m[i][0m Device number 80: (Host)
+    MAC   c0:95:6d:4a:b1:a1
+    IPv4  100.64.128.39
+    IPv6  fe80::c5b:3453:5421:2962
+[93m[i][0m Device number 81: (Host)
+    MAC   c0:b6:f9:e5:84:ea
+    IPv4  100.64.135.199
+    IPv6  fe80::cfff:76ca:e9d5:c54
+[93m[i][0m Device number 82: (Host)
+    MAC   ca:ae:75:64:bd:7e
+    IPv4  100.64.129.162
+    IPv6  fe80::c4a:53f1:7884:1520
+[93m[i][0m Device number 83: (Host)
+    MAC   d6:20:e0:0c:ee:a7
+    IPv4  100.64.132.143
+    IPv6  2001:67c:1220:98a1:188b:d55b:fee4:4684
+    IPv6  fe80::c16:bff5:4424:dcf0
+[93m[i][0m Device number 84: (Host)
+    MAC   d6:96:b0:8f:65:6d
+    IPv4  100.64.132.224
+    IPv6  fe80::1404:e2b8:b89a:ef9d
+[93m[i][0m Device number 85: (Host)
+    MAC   d8:c0:a6:30:13:41
+    IPv4  100.64.131.106
+[93m[i][0m Device number 86: (Preferred router)
+    MAC   dc:68:0c:3f:d4:98
+    IPv6  fe80::de68:cff:fe3f:d498
+[93m[i][0m Device number 87: (Host)
+    MAC   de:a0:74:33:4d:da
+    IPv4  100.64.131.59
+    IPv6  fe80::1c74:9d37:ed6f:3a68
+[93m[i][0m Device number 88: (Host)
+    MAC   de:ea:fa:d9:0e:6b
+    IPv4  100.64.129.70
+    IPv6  fe80::143e:38fe:277c:eaea
+[93m[i][0m Device number 89: (Host)
+    MAC   e0:cc:f8:b6:eb:21
+    IPv4  100.64.133.119
+    IPv6  2001:67c:1220:98a1:8f16:1245:509d:65fa
+    IPv6  2001:67c:1220:98a1:d575:67aa:a2d1:482e
+    IPv6  fe80::4aed:c762:97eb:4d74
+[93m[i][0m Device number 90: (Host)
+    MAC   e0:dc:ff:fa:f6:e3
+    IPv4  100.64.128.214
+    IPv6  fe80::f63a:4dd:c1cb:6aaf
+[93m[i][0m Device number 91: (Host)
+    MAC   e2:ba:dd:d0:1d:96
+    IPv4  100.64.129.210
+    IPv6  fe80::14f4:a40b:f841:9be9
+[93m[i][0m Device number 92: (Host)
+    MAC   e4:5f:01:85:05:02
+    IPv6  fe80::df7:181f:ca68:ac57
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXac:3148 (possible address)
+[93m[i][0m Device number 93: (Host)
+    MAC   e8:5a:8b:eb:46:9b
+    IPv4  100.64.132.107
+    IPv6  2001:67c:1220:98a1:85c1:ca8e:d09c:a98b
+    IPv6  2001:67c:1220:98a1:d5b2:3794:c529:6d78
+    IPv6  fe80::f38f:daef:d0e1:f846
+[93m[i][0m Device number 94: (Host)
+    MAC   ee:92:6b:20:24:1c
+    IPv4  100.64.135.192
+    IPv6  fe80::4ae:1cd5:7f17:147e
+[93m[i][0m Device number 95: (Host)
+    MAC   f4:26:79:d5:de:d7
+    IPv4  100.64.131.117
+    IPv6  fe80::553d:c0ea:3581:c2f0
+[93m[i][0m Device number 96: (Host)
+    MAC   f8:16:54:c2:10:78
+    IPv4  100.64.132.127
+[93m[i][0m Device number 97: (Host)
+    MAC   f8:16:54:e1:01:8b
+    IPv4  100.64.128.175
+[93m[i][0m Device number 98: (Host)
+    MAC   f8:63:3f:92:e0:69
+    IPv6  fe80::b22c:cd44:f0f5:b48a
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4b:aeab (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXb4:6e83 (possible address)
+[93m[i][0m Device number 99: (Host)
+    MAC   f8:89:d2:b1:55:05
+    IPv4  100.64.129.38
+    IPv6  fe80::e617:cd12:9b9b:6c56
+[93m[i][0m Device number 100: (Host)
+    MAC   f8:ff:c2:3d:c2:ef
+    IPv4  100.64.133.143
+    IPv6  fe80::1cba:ca3e:d590:10ca
+[93m[i][0m Device number 101: (Host)
+    MAC   fa:62:2c:a2:15:6e
+    IPv4  100.64.135.220
+    IPv6  fe80::1001:ccaf:421f:e91c
+[93m[i][0m Device number 102: (Host)
+    MAC   fc:d9:08:4d:f8:98
+    IPv4  100.64.134.94
+    IPv6  2001:67c:1220:98a1:5f9:7f37:682d:48c2
+    IPv6  2001:67c:1220:98a1:60f:2309:a74:45b7
+    IPv6  fe80::d2aa:e8f8:5e3f:7d04
+[93m[i][0m The interface is restored
+[93m[i][0m Manual IP configuration is not restored if being set
+[93m[i][0m Passive scan ended 
+

@@ -1,0 +1,429 @@
+####################### CAPTURED DEVICES
+Device: e4:5f:01:85:05:02
+IP addresses: {'fe80::df7:181f:ca68:ac57', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXac:3148'}
+Device: f8:63:3f:92:e0:69
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4b:aeab', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXb4:6e83', 'fe80::b22c:cd44:f0f5:b48a'}
+Device: 8c:3b:4a:43:2f:d0
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXd5:c74f', 'fe80::30de:13c4:ed65:5e8d', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdb:b31a'}
+Device: 64:5d:86:90:a2:18
+IP addresses: {'2001:67c:1220:98a1:2589:48f3:28a8:3d16', 'fe80::b321:1338:a264:449f', '2001:67c:1220:98a1:f9af:2835:e3dd:c62f', '100.64.134.98'}
+Device: 7e:b4:d2:17:13:23
+IP addresses: {'100.64.135.186', 'fe80::1497:d1d7:628d:f016', '2001:67c:1220:98a1:4ea:f20b:94e2:843d'}
+Device: 10:51:07:88:6a:80
+IP addresses: {'100.64.130.127', '2001:67c:1220:98a1:3bcb:6f4e:1f2c:be86', '2001:67c:1220:98a1:c064:9104:1bba:6d7f', 'fe80::c0d7:3fa8:fd8a:56db'}
+Device: a6:04:90:52:97:80
+IP addresses: {'100.64.132.3', 'fe80::a404:90ff:fe52:9780'}
+Device: 72:a9:dc:54:e5:85
+IP addresses: {'100.64.133.73', 'fe80::1cc9:831d:c869:987'}
+Device: 60:67:20:c5:70:60
+IP addresses: {'100.64.131.83'}
+Device: 9c:28:f7:8b:de:94
+IP addresses: {'2001:67c:1220:98a1:389f:189e:5359:131', '100.64.129.231', 'fe80::699d:ac77:1be6:5a41', '2001:67c:1220:98a1:6c0d:a0:b76b:3a34'}
+Device: c0:b6:f9:e5:84:ea
+IP addresses: {'fe80::cfff:76ca:e9d5:c54', '100.64.135.199'}
+Device: 08:f8:bc:5d:89:0e
+IP addresses: {'fe80::106c:5d66:97b9:508c', '100.64.132.232'}
+Device: 40:74:e0:50:f3:7a
+IP addresses: {'100.64.129.82'}
+Device: 4c:1d:96:39:de:83
+IP addresses: {'100.64.132.100'}
+Device: 00:c2:c6:1f:80:dd
+IP addresses: {'100.64.132.253', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX03:49da', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX95:7744', 'fe80::4192:edf:c703:4819'}
+Device: 34:36:3b:d2:a1:0a
+IP addresses: {'100.64.128.147', 'fe80::41e:e6f8:f736:1c34'}
+Device: 62:4b:41:33:07:56
+IP addresses: {'100.64.130.26', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX9b:6766', 'fe80::604b:41ff:fe33:756'}
+Device: 6c:7e:67:ce:b8:b7
+IP addresses: {'100.64.131.208', 'fe80::10f8:780d:d972:d23c'}
+Device: 0c:9a:3c:6d:cc:89
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXe5:7c13', 'fe80::3687:9c9f:2020:b45f'}
+Device: 7e:17:59:78:40:0b
+IP addresses: {'fe80::5a:e4e6:c461:9033', '100.64.133.235'}
+Device: 14:98:77:57:6c:38
+IP addresses: {'100.64.135.41', 'fe80::c4b:b425:b22f:884a'}
+Device: 06:18:ba:16:4d:35
+IP addresses: {'fe80::1036:b26a:153c:8cd3', '100.64.134.163'}
+Device: 6e:b3:e5:f1:5a:40
+IP addresses: {'fe80::f100:30fd:eccc:c76c', '100.64.133.7'}
+Device: 50:ed:3c:1a:f5:b6
+IP addresses: {'100.64.132.186', 'fe80::18d5:e67f:9c34:b4a4'}
+Device: fa:62:2c:a2:15:6e
+IP addresses: {'fe80::1001:ccaf:421f:e91c', '100.64.135.220'}
+Device: 52:75:90:90:5d:d3
+IP addresses: {'fe80::14d4:f1fd:82a1:392d', '2001:67c:1220:98a1:821:f774:ec1f:daf6', '100.64.135.61'}
+Device: c0:95:6d:4a:b1:a1
+IP addresses: {'fe80::c5b:3453:5421:2962', '100.64.128.39'}
+Device: 3a:f4:cd:6a:e5:7e
+IP addresses: {'100.64.132.57'}
+Device: b2:3c:85:89:04:f2
+IP addresses: {'fe80::7a:2f01:5609:f372', '100.64.132.158', '2001:67c:1220:98a1:896:230f:3e83:e3f1'}
+Device: 50:de:06:ca:5e:64
+IP addresses: {'100.64.135.144', 'fe80::10f1:3c9a:67bb:80f1'}
+Device: e8:5a:8b:eb:46:9b
+IP addresses: {'2001:67c:1220:98a1:d5b2:3794:c529:6d78', '100.64.132.107', '2001:67c:1220:98a1:85c1:ca8e:d09c:a98b', 'fe80::f38f:daef:d0e1:f846'}
+Device: 62:4d:43:43:92:89
+IP addresses: {'100.64.130.97', 'fe80::1837:d8f6:be32:ec0b'}
+Device: a0:a8:cd:3b:99:c6
+IP addresses: {'100.64.134.224', 'fe80::b069:e03d:4223:82a5', '2001:67c:1220:98a1:a49b:47b4:b4fb:744f', '2001:67c:1220:98a1:b069:e03d:4223:82a5'}
+Device: bc:a8:a6:ce:ca:e8
+IP addresses: {'100.64.131.174'}
+Device: 5a:e7:7d:20:36:5e
+IP addresses: {'100.64.133.99'}
+Device: 14:13:33:ae:82:61
+IP addresses: {'100.64.129.76'}
+Device: 86:a9:27:48:eb:52
+IP addresses: {'100.64.129.138'}
+Device: bc:6e:e2:b7:66:be
+IP addresses: {'100.64.132.86'}
+Device: f8:16:54:c2:10:78
+IP addresses: {'100.64.132.127'}
+Device: d6:96:b0:8f:65:6d
+IP addresses: {'100.64.132.224', 'fe80::1404:e2b8:b89a:ef9d'}
+Device: 34:6f:24:86:7f:a5
+IP addresses: {'100.64.133.139'}
+Device: e0:dc:ff:fa:f6:e3
+IP addresses: {'fe80::f63a:4dd:c1cb:6aaf', '100.64.128.214'}
+Device: 7c:24:99:ed:d3:3b
+IP addresses: {'fe80::56:f7ff:cfa4:a943', '100.64.129.252'}
+Device: 5c:96:9d:7c:58:81
+IP addresses: {'fe80::32:dd02:68c8:4fb5', '100.64.130.158'}
+Device: f8:ff:c2:3d:c2:ef
+IP addresses: {'fe80::1cba:ca3e:d590:10ca', '100.64.133.143'}
+Device: 5e:47:59:20:38:34
+IP addresses: {'100.64.129.159', 'fe80::1080:225c:5b52:cb3e'}
+Device: de:ea:fa:d9:0e:6b
+IP addresses: {'fe80::143e:38fe:277c:eaea', '100.64.129.70'}
+Device: 1c:91:80:d3:4c:37
+IP addresses: {'fe80::184b:cb8b:d774:a344', '100.64.135.16'}
+Device: d6:20:e0:0c:ee:a7
+IP addresses: {'fe80::c16:bff5:4424:dcf0', '2001:67c:1220:98a1:188b:d55b:fee4:4684', '100.64.132.143'}
+Device: 3a:84:48:e3:08:c4
+IP addresses: {'100.64.134.79', 'fe80::18e4:8f2d:1000:f79c'}
+Device: 50:50:a4:72:1c:8a
+IP addresses: {'fe80::38b9:a891:d6d:6f83', '100.64.132.56', '2001:67c:1220:98a1:b5f6:5ada:10fe:77d6', '2001:67c:1220:98a1:45c9:2d87:d07b:cc2'}
+Device: e0:cc:f8:b6:eb:21
+IP addresses: {'2001:67c:1220:98a1:8f16:1245:509d:65fa', '2001:67c:1220:98a1:d575:67aa:a2d1:482e', 'fe80::4aed:c762:97eb:4d74', '100.64.133.119'}
+Device: a4:4b:d5:22:2a:b0
+IP addresses: {'fe80::a4b6:f21b:ef36:a99', '2001:67c:1220:98a1:a31d:b6f2:5631:58a2', '100.64.134.242', '2001:67c:1220:98a1:d988:fa93:f7fd:e13d'}
+Device: fc:d9:08:4d:f8:98
+IP addresses: {'2001:67c:1220:98a1:5f9:7f37:682d:48c2', 'fe80::d2aa:e8f8:5e3f:7d04', '100.64.134.94', '2001:67c:1220:98a1:60f:2309:a74:45b7'}
+Device: 2a:93:de:ee:bb:d1
+IP addresses: {'fe80::c76:d512:a8fa:97d', '100.64.132.24'}
+Device: 92:35:93:95:17:f7
+IP addresses: {'100.64.132.199'}
+Device: 76:08:04:a1:08:a7
+IP addresses: {'100.64.129.250', 'fe80::7408:4ff:fea1:8a7'}
+Device: a8:9c:ed:4b:3a:03
+IP addresses: {'100.64.132.62', 'fe80::aa9c:edff:fe4b:3a03'}
+Device: 2a:d0:8e:1a:70:38
+IP addresses: {'100.64.131.115', 'fe80::e0:dfc2:924a:1031'}
+Device: 66:7d:a9:b2:80:12
+IP addresses: {'fe80::1c19:9b50:658:6fab', '100.64.135.224'}
+Device: a6:23:35:19:29:70
+IP addresses: {'fe80::1c60:79c8:7bd:36ac', '100.64.131.134'}
+Device: 40:ec:99:ef:c9:69
+IP addresses: {'100.64.133.180'}
+Device: 60:e9:aa:5c:f6:87
+IP addresses: {'100.64.131.129'}
+Device: 30:03:c8:8e:35:6b
+IP addresses: {'100.64.134.238'}
+Device: 78:d6:dc:1b:80:41
+IP addresses: {'100.64.134.26'}
+Device: 7e:36:b4:d6:a7:4a
+IP addresses: {'fe80::1806:d523:59a8:e0f5', '100.64.131.87'}
+Device: c0:95:6d:30:a3:ae
+IP addresses: {'100.64.131.96', '2001:67c:1220:98a1:c12:cab0:cd48:56ad', 'fe80::1c1b:3eff:db10:2aac'}
+Device: 1a:79:10:5e:2c:52
+IP addresses: {'fe80::10ec:2585:2ac0:d0f', '100.64.134.220'}
+Device: f8:89:d2:b1:55:05
+IP addresses: {'100.64.129.38', 'fe80::e617:cd12:9b9b:6c56'}
+Device: 4a:d6:c3:ea:22:16
+IP addresses: {'100.64.134.208'}
+Device: 04:68:65:4f:b8:f7
+IP addresses: {'100.64.128.205', 'fe80::1c21:ce0c:18f7:8a9d'}
+Device: a8:64:f1:e2:e2:94
+IP addresses: {'100.64.129.121', 'fe80::1c80:276f:b000:c4ea'}
+Device: 42:ab:8d:ab:29:85
+IP addresses: {'100.64.132.1', 'fe80::40ab:8dff:feab:2985', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0000', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXce:f9df'}
+Device: 5a:93:dc:fe:e2:e5
+IP addresses: {'fe80::5893:dcff:fefe:e2e5', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXed:62a6', '100.64.129.211'}
+Device: 1a:ba:80:45:6d:19
+IP addresses: {'fe80::1030:67be:38f2:d57a', '100.64.134.237'}
+Device: 7e:09:3c:94:85:58
+IP addresses: {'100.64.134.46', 'fe80::106e:a171:76da:f367'}
+Device: 2e:1a:61:6c:24:49
+IP addresses: {'100.64.134.206', 'fe80::c06:415a:3177:a3b9'}
+Device: 08:5b:d6:3f:02:b9
+IP addresses: {'100.64.132.184'}
+Device: dc:68:0c:3f:d4:98
+IP addresses: {'fe80::de68:cff:fe3f:d498'}
+Device: ca:ae:75:64:bd:7e
+IP addresses: {'fe80::c4a:53f1:7884:1520', '100.64.129.162'}
+Device: 72:bf:9d:8b:c8:25
+IP addresses: {'100.64.132.154', 'fe80::70bf:9dff:fe8b:c825'}
+Device: 22:8e:39:e3:7b:1d
+IP addresses: {'100.64.133.105'}
+Device: 5e:9d:5f:80:9e:1c
+IP addresses: {'fe80::5c9d:5fff:fe80:9e1c', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdd:c37f'}
+Device: de:a0:74:33:4d:da
+IP addresses: {'100.64.131.59', 'fe80::1c74:9d37:ed6f:3a68'}
+Device: e2:ba:dd:d0:1d:96
+IP addresses: {'100.64.129.210', 'fe80::14f4:a40b:f841:9be9'}
+Device: 72:e2:c2:4d:8a:8d
+IP addresses: {'100.64.129.102', 'fe80::53:fa53:75a:2e60'}
+Device: 74:3a:f4:69:39:b2
+IP addresses: {'100.64.134.234'}
+Device: a4:34:d9:55:b1:d5
+IP addresses: {'100.64.130.119'}
+Device: 86:09:68:e7:c5:c7
+IP addresses: {'fe80::468:eac1:ee44:7213', '100.64.132.19'}
+Device: 5a:3d:a3:4a:6f:f8
+IP addresses: {'fe80::1ce9:34ee:9832:5902', '100.64.132.230'}
+Device: 9a:fd:ab:43:0f:dc
+IP addresses: {'100.64.128.224', 'fe80::434:666c:79e3:c21f'}
+Device: 7e:89:3c:d9:05:f4
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf4:3534', 'fe80::7c89:3cff:fed9:5f4'}
+Device: b0:3c:dc:26:57:19
+IP addresses: {'2001:67c:1220:98a1:5041:6f5b:8442:df8', '100.64.129.83', '2001:67c:1220:98a1:7474:afb0:74bb:77fd', 'fe80::2be9:61c:5f65:f96b'}
+Device: f4:26:79:d5:de:d7
+IP addresses: {'fe80::553d:c0ea:3581:c2f0', '100.64.131.117'}
+Device: d8:c0:a6:30:13:41
+IP addresses: {'100.64.131.106'}
+Device: 44:85:00:bf:8d:67
+IP addresses: {'100.64.135.225'}
+Device: 3a:22:bd:3c:de:59
+IP addresses: {'100.64.128.63', 'fe80::1096:59ef:a1b0:97b7'}
+Device: 96:b1:82:5c:7f:09
+IP addresses: {'100.64.134.149', 'fe80::8be:b5cf:3371:5f04'}
+Device: 82:ac:9e:65:2a:6d
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXcb:5f05', 'fe80::80ac:9eff:fe65:2a6d'}
+Device: ee:92:6b:20:24:1c
+IP addresses: {'100.64.135.192', 'fe80::4ae:1cd5:7f17:147e'}
+Device: f8:16:54:e1:01:8b
+IP addresses: {'100.64.128.175'}
+Device: 68:54:5a:8e:44:eb
+IP addresses: {'100.64.129.198'}
+Device: 52:34:7d:20:96:98
+IP addresses: {'100.64.131.176'}
+####################### OUTPUT OF PTNET
+Device: 00:c2:c6:1f:80:dd
+IP addresses: {'100.64.132.253', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX95:7744', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX03:49da', 'fe80::4192:edf:c703:4819'}
+Device: 04:68:65:4f:b8:f7
+IP addresses: {'100.64.128.205', 'fe80::1c21:ce0c:18f7:8a9d'}
+Device: 06:18:ba:16:4d:35
+IP addresses: {'fe80::1036:b26a:153c:8cd3', '100.64.134.163'}
+Device: 08:5b:d6:3f:02:b9
+IP addresses: {'100.64.132.184'}
+Device: 08:f8:bc:5d:89:0e
+IP addresses: {'fe80::106c:5d66:97b9:508c', '100.64.132.232'}
+Device: 0c:9a:3c:6d:cc:89
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXe5:7c13', 'fe80::3687:9c9f:2020:b45f'}
+Device: 10:51:07:88:6a:80
+IP addresses: {'2001:67c:1220:98a1:c064:9104:1bba:6d7f', 'fe80::c0d7:3fa8:fd8a:56db', '2001:67c:1220:98a1:3bcb:6f4e:1f2c:be86', '100.64.130.127'}
+Device: 14:13:33:ae:82:61
+IP addresses: {'100.64.129.76'}
+Device: 14:98:77:57:6c:38
+IP addresses: {'100.64.135.41', 'fe80::c4b:b425:b22f:884a'}
+Device: 1a:79:10:5e:2c:52
+IP addresses: {'fe80::10ec:2585:2ac0:d0f', '100.64.134.220'}
+Device: 1a:ba:80:45:6d:19
+IP addresses: {'fe80::1030:67be:38f2:d57a', '100.64.134.237'}
+Device: 1c:91:80:d3:4c:37
+IP addresses: {'fe80::184b:cb8b:d774:a344', '100.64.135.16'}
+Device: 22:8e:39:e3:7b:1d
+IP addresses: {'100.64.133.105'}
+Device: 2a:93:de:ee:bb:d1
+IP addresses: {'fe80::c76:d512:a8fa:97d', '100.64.132.24'}
+Device: 2a:d0:8e:1a:70:38
+IP addresses: {'100.64.131.115', 'fe80::e0:dfc2:924a:1031'}
+Device: 2e:1a:61:6c:24:49
+IP addresses: {'100.64.134.206', 'fe80::c06:415a:3177:a3b9'}
+Device: 30:03:c8:8e:35:6b
+IP addresses: {'100.64.134.238'}
+Device: 34:36:3b:d2:a1:0a
+IP addresses: {'100.64.128.147', 'fe80::41e:e6f8:f736:1c34'}
+Device: 34:6f:24:86:7f:a5
+IP addresses: {'100.64.133.139'}
+Device: 3a:22:bd:3c:de:59
+IP addresses: {'100.64.128.63', 'fe80::1096:59ef:a1b0:97b7'}
+Device: 3a:84:48:e3:08:c4
+IP addresses: {'100.64.134.79', 'fe80::18e4:8f2d:1000:f79c'}
+Device: 3a:f4:cd:6a:e5:7e
+IP addresses: {'100.64.132.57'}
+Device: 40:74:e0:50:f3:7a
+IP addresses: {'100.64.129.82'}
+Device: 40:ec:99:ef:c9:69
+IP addresses: {'100.64.133.180'}
+Device: 42:ab:8d:ab:29:85
+IP addresses: {'100.64.132.1', 'fe80::40ab:8dff:feab:2985', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0000', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXce:f9df'}
+Device: 44:85:00:bf:8d:67
+IP addresses: {'100.64.135.225'}
+Device: 4a:d6:c3:ea:22:16
+IP addresses: {'100.64.134.208'}
+Device: 4c:1d:96:39:de:83
+IP addresses: {'100.64.132.100'}
+Device: 50:50:a4:72:1c:8a
+IP addresses: {'fe80::38b9:a891:d6d:6f83', '100.64.132.56', '2001:67c:1220:98a1:45c9:2d87:d07b:cc2', '2001:67c:1220:98a1:b5f6:5ada:10fe:77d6'}
+Device: 50:de:06:ca:5e:64
+IP addresses: {'100.64.135.144', 'fe80::10f1:3c9a:67bb:80f1'}
+Device: 50:ed:3c:1a:f5:b6
+IP addresses: {'100.64.132.186', 'fe80::18d5:e67f:9c34:b4a4'}
+Device: 52:75:90:90:5d:d3
+IP addresses: {'fe80::14d4:f1fd:82a1:392d', '2001:67c:1220:98a1:821:f774:ec1f:daf6', '100.64.135.61'}
+Device: 5a:3d:a3:4a:6f:f8
+IP addresses: {'fe80::1ce9:34ee:9832:5902', '100.64.132.230'}
+Device: 5a:93:dc:fe:e2:e5
+IP addresses: {'fe80::5893:dcff:fefe:e2e5', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXed:62a6', '100.64.129.211'}
+Device: 5a:e7:7d:20:36:5e
+IP addresses: {'100.64.133.99'}
+Device: 5c:96:9d:7c:58:81
+IP addresses: {'fe80::32:dd02:68c8:4fb5', '100.64.130.158'}
+Device: 5e:47:59:20:38:34
+IP addresses: {'100.64.129.159', 'fe80::1080:225c:5b52:cb3e'}
+Device: 5e:9d:5f:80:9e:1c
+IP addresses: {'fe80::5c9d:5fff:fe80:9e1c', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdd:c37f'}
+Device: 60:67:20:c5:70:60
+IP addresses: {'100.64.131.83'}
+Device: 60:e9:aa:5c:f6:87
+IP addresses: {'100.64.131.129'}
+Device: 62:4b:41:33:07:56
+IP addresses: {'100.64.130.26', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX9b:6766', 'fe80::604b:41ff:fe33:756'}
+Device: 62:4d:43:43:92:89
+IP addresses: {'100.64.130.97', 'fe80::1837:d8f6:be32:ec0b'}
+Device: 64:5d:86:90:a2:18
+IP addresses: {'100.64.134.98', 'fe80::b321:1338:a264:449f', '2001:67c:1220:98a1:2589:48f3:28a8:3d16', '2001:67c:1220:98a1:f9af:2835:e3dd:c62f'}
+Device: 66:7d:a9:b2:80:12
+IP addresses: {'fe80::1c19:9b50:658:6fab', '100.64.135.224'}
+Device: 68:54:5a:8e:44:eb
+IP addresses: {'100.64.129.198'}
+Device: 6c:7e:67:ce:b8:b7
+IP addresses: {'100.64.131.208', 'fe80::10f8:780d:d972:d23c'}
+Device: 6e:b3:e5:f1:5a:40
+IP addresses: {'fe80::f100:30fd:eccc:c76c', '100.64.133.7'}
+Device: 72:a9:dc:54:e5:85
+IP addresses: {'100.64.133.73', 'fe80::1cc9:831d:c869:987'}
+Device: 72:bf:9d:8b:c8:25
+IP addresses: {'100.64.132.154', 'fe80::70bf:9dff:fe8b:c825'}
+Device: 72:e2:c2:4d:8a:8d
+IP addresses: {'100.64.129.102', 'fe80::53:fa53:75a:2e60'}
+Device: 74:3a:f4:69:39:b2
+IP addresses: {'100.64.134.234'}
+Device: 76:08:04:a1:08:a7
+IP addresses: {'100.64.129.250', 'fe80::7408:4ff:fea1:8a7'}
+Device: 78:d6:dc:1b:80:41
+IP addresses: {'100.64.134.26'}
+Device: 7c:24:99:ed:d3:3b
+IP addresses: {'fe80::56:f7ff:cfa4:a943', '100.64.129.252'}
+Device: 7e:09:3c:94:85:58
+IP addresses: {'100.64.134.46', 'fe80::106e:a171:76da:f367'}
+Device: 7e:17:59:78:40:0b
+IP addresses: {'fe80::5a:e4e6:c461:9033', '100.64.133.235'}
+Device: 7e:36:b4:d6:a7:4a
+IP addresses: {'fe80::1806:d523:59a8:e0f5', '100.64.131.87'}
+Device: 7e:89:3c:d9:05:f4
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf4:3534', 'fe80::7c89:3cff:fed9:5f4'}
+Device: 7e:b4:d2:17:13:23
+IP addresses: {'100.64.135.186', 'fe80::1497:d1d7:628d:f016', '2001:67c:1220:98a1:4ea:f20b:94e2:843d'}
+Device: 82:ac:9e:65:2a:6d
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXcb:5f05', 'fe80::80ac:9eff:fe65:2a6d'}
+Device: 86:09:68:e7:c5:c7
+IP addresses: {'fe80::468:eac1:ee44:7213', '100.64.132.19'}
+Device: 86:a9:27:48:eb:52
+IP addresses: {'100.64.129.138'}
+Device: 8c:3b:4a:43:2f:d0
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXd5:c74f', 'fe80::30de:13c4:ed65:5e8d', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXdb:b31a'}
+Device: 92:35:93:95:17:f7
+IP addresses: {'100.64.132.199'}
+Device: 96:b1:82:5c:7f:09
+IP addresses: {'100.64.134.149', 'fe80::8be:b5cf:3371:5f04'}
+Device: 9a:fd:ab:43:0f:dc
+IP addresses: {'100.64.128.224', 'fe80::434:666c:79e3:c21f'}
+Device: 9c:28:f7:8b:de:94
+IP addresses: {'2001:67c:1220:98a1:389f:189e:5359:131', '100.64.129.231', '2001:67c:1220:98a1:6c0d:a0:b76b:3a34', 'fe80::699d:ac77:1be6:5a41'}
+Device: a0:a8:cd:3b:99:c6
+IP addresses: {'100.64.134.224', 'fe80::b069:e03d:4223:82a5', '2001:67c:1220:98a1:a49b:47b4:b4fb:744f', '2001:67c:1220:98a1:b069:e03d:4223:82a5'}
+Device: a4:34:d9:55:b1:d5
+IP addresses: {'100.64.130.119'}
+Device: a4:4b:d5:22:2a:b0
+IP addresses: {'fe80::a4b6:f21b:ef36:a99', '2001:67c:1220:98a1:a31d:b6f2:5631:58a2', '100.64.134.242', '2001:67c:1220:98a1:d988:fa93:f7fd:e13d'}
+Device: a6:04:90:52:97:80
+IP addresses: {'fe80::a404:90ff:fe52:9780', '100.64.132.3'}
+Device: a6:23:35:19:29:70
+IP addresses: {'fe80::1c60:79c8:7bd:36ac', '100.64.131.134'}
+Device: a8:64:f1:e2:e2:94
+IP addresses: {'100.64.129.121', 'fe80::1c80:276f:b000:c4ea'}
+Device: a8:9c:ed:4b:3a:03
+IP addresses: {'100.64.132.62', 'fe80::aa9c:edff:fe4b:3a03'}
+Device: b0:3c:dc:26:57:19
+IP addresses: {'2001:67c:1220:98a1:5041:6f5b:8442:df8', '100.64.129.83', '2001:67c:1220:98a1:7474:afb0:74bb:77fd', 'fe80::2be9:61c:5f65:f96b'}
+Device: b2:3c:85:89:04:f2
+IP addresses: {'fe80::7a:2f01:5609:f372', '100.64.132.158', '2001:67c:1220:98a1:896:230f:3e83:e3f1'}
+Device: bc:6e:e2:b7:66:be
+IP addresses: {'100.64.132.86'}
+Device: bc:a8:a6:ce:ca:e8
+IP addresses: {'100.64.131.174'}
+Device: c0:95:6d:30:a3:ae
+IP addresses: {'100.64.131.96', '2001:67c:1220:98a1:c12:cab0:cd48:56ad', 'fe80::1c1b:3eff:db10:2aac'}
+Device: c0:95:6d:4a:b1:a1
+IP addresses: {'fe80::c5b:3453:5421:2962', '100.64.128.39'}
+Device: c0:b6:f9:e5:84:ea
+IP addresses: {'fe80::cfff:76ca:e9d5:c54', '100.64.135.199'}
+Device: ca:ae:75:64:bd:7e
+IP addresses: {'fe80::c4a:53f1:7884:1520', '100.64.129.162'}
+Device: d6:20:e0:0c:ee:a7
+IP addresses: {'fe80::c16:bff5:4424:dcf0', '2001:67c:1220:98a1:188b:d55b:fee4:4684', '100.64.132.143'}
+Device: d6:96:b0:8f:65:6d
+IP addresses: {'100.64.132.224', 'fe80::1404:e2b8:b89a:ef9d'}
+Device: d8:c0:a6:30:13:41
+IP addresses: {'100.64.131.106'}
+Device: dc:68:0c:3f:d4:98
+IP addresses: {'fe80::de68:cff:fe3f:d498'}
+Device: de:a0:74:33:4d:da
+IP addresses: {'100.64.131.59', 'fe80::1c74:9d37:ed6f:3a68'}
+Device: de:ea:fa:d9:0e:6b
+IP addresses: {'fe80::143e:38fe:277c:eaea', '100.64.129.70'}
+Device: e0:cc:f8:b6:eb:21
+IP addresses: {'2001:67c:1220:98a1:8f16:1245:509d:65fa', '2001:67c:1220:98a1:d575:67aa:a2d1:482e', 'fe80::4aed:c762:97eb:4d74', '100.64.133.119'}
+Device: e0:dc:ff:fa:f6:e3
+IP addresses: {'fe80::f63a:4dd:c1cb:6aaf', '100.64.128.214'}
+Device: e2:ba:dd:d0:1d:96
+IP addresses: {'100.64.129.210', 'fe80::14f4:a40b:f841:9be9'}
+Device: e4:5f:01:85:05:02
+IP addresses: {'fe80::df7:181f:ca68:ac57', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXac:3148'}
+Device: e8:5a:8b:eb:46:9b
+IP addresses: {'fe80::f38f:daef:d0e1:f846', '2001:67c:1220:98a1:d5b2:3794:c529:6d78', '100.64.132.107', '2001:67c:1220:98a1:85c1:ca8e:d09c:a98b'}
+Device: ee:92:6b:20:24:1c
+IP addresses: {'100.64.135.192', 'fe80::4ae:1cd5:7f17:147e'}
+Device: f4:26:79:d5:de:d7
+IP addresses: {'fe80::553d:c0ea:3581:c2f0', '100.64.131.117'}
+Device: f8:16:54:c2:10:78
+IP addresses: {'100.64.132.127'}
+Device: f8:16:54:e1:01:8b
+IP addresses: {'100.64.128.175'}
+Device: f8:63:3f:92:e0:69
+IP addresses: {'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4b:aeab', 'XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXb4:6e83', 'fe80::b22c:cd44:f0f5:b48a'}
+Device: f8:89:d2:b1:55:05
+IP addresses: {'100.64.129.38', 'fe80::e617:cd12:9b9b:6c56'}
+Device: f8:ff:c2:3d:c2:ef
+IP addresses: {'fe80::1cba:ca3e:d590:10ca', '100.64.133.143'}
+Device: fa:62:2c:a2:15:6e
+IP addresses: {'fe80::1001:ccaf:421f:e91c', '100.64.135.220'}
+Device: fc:d9:08:4d:f8:98
+IP addresses: {'2001:67c:1220:98a1:60f:2309:a74:45b7', '100.64.134.94', 'fe80::d2aa:e8f8:5e3f:7d04', '2001:67c:1220:98a1:5f9:7f37:682d:48c2'}
+##############################################
+##############
+Number of devices captured by the verifyAddresses script: 103
+Number of devices captured by the verifyAddresses script: 212
+###
+Number of devices captured by the ptnetinspector: 102
+Number of Addresses captured by the ptnetinspector: 211
+##############
+
+##############
+52:34:7d:20:96:98 was not captured by the ptNetInspector.
+Some addresses were not found or the set is empty.
+##############
+
+##############
+Every device and address from the ptnet output was also found in the captured results.
+##############

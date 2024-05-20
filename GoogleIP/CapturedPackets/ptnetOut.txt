@@ -1,0 +1,121 @@
+=====================================
+= Warning about inserted parameters =
+=====================================
+[38;2;255;103;0m[!][0m Missing prefix, so the prefix is set to: fe80::/64
+[38;2;255;103;0m[!][0m Missing source MAC, so scanner's MAC is resolved from interface: 00:0c:29:b8:a9:4d
+[38;2;255;103;0m[!][0m Missing source IP, so scanner's IP is resolved from interface: ['fe80::20c:29ff:feb8:a94d%eth0']
+[38;2;255;103;0m[!][0m Missing preference flag, so scanner's flag is set to High
+[38;2;255;103;0m[!][0m Missing period (RA sending rate), so it is set to: 1 RA /3.0 s
+[38;2;255;103;0m[!][0m Missing current hop limit, so it is set to: 0
+[38;2;255;103;0m[!][0m Missing MTU, so this option is ignored
+[38;2;255;103;0m[!][0m Missing DNS address, so this option is ignored
+=========================================
+= Information about inserted parameters =
+=========================================
+[93m[i][0m Interface: eth0
+[93m[i][0m Disabling json output
+[93m[i][0m Temporary files are not deleted after all
+[93m[i][0m Using mode aggressive
+[93m[i][0m Displaying only basic detail (except for mode 802.1x)
+[93m[i][0m Aggressive duration (time being the fake router): 30.0s
+[93m[i][0m Network prefix used in aggressive mode: fe80::/64
+[93m[i][0m Source MAC used in aggressive mode: 00:0c:29:b8:a9:4d
+[93m[i][0m Source IP used in aggressive mode: ['fe80::20c:29ff:feb8:a94d%eth0']
+[93m[i][0m Preference flag of RA used in aggressive mode: High
+[93m[i][0m Sending rate of RA used in aggressive mode: 1 packet per 3.0s
+[93m[i][0m Current hop limit of RA used in aggressive mode: 0
+[93m[i][0m MTU of RA used in aggressive mode: None
+[93m[i][0m DNS of RA used in aggressive mode: None
+===========================
+= Aggressive scan running =
+===========================
+[93m[i][0m Adding rules in configuration to perform scanning
+[92m[✓][0m Number of devices found: 8
+[93m[i][0m Device number 1: (Host)
+    MAC   00:0c:29:2a:8e:72
+    IPv6  2001:f:b:a:9487:792:47ae:703e
+    IPv6  fe80::e734:2b41:5223:b9c9
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0003 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX0a:02a8 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX46:914f (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX86:9433 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXa2:8947 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXf0:edab (possible address)
+[93m[i][0m Device number 2: (Host)
+    MAC   00:0c:29:49:04:db
+    IPv6  2001:f:b:a:43f6:31fc:4480:309b
+    IPv6  2001:f:b:b:d37e:f48:ff38:1339
+    IPv6  2001:f:b:c:d704:4a16:d9aa:1e8
+    IPv6  2001:f:b:d:6842:be51:157f:e1f7
+    IPv6  2001:f:b:e:56a4:90d2:1f89:63ec
+    IPv6  fe80::f396:bb03:162c:7a59
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX00:0004 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX32:5fb5 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:5923 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX4a:8955 (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX56:bffb (possible address)
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXfc:ee73 (possible address)
+[93m[i][0m Device number 3: (Host)
+    MAC   00:0c:29:4e:8c:88
+    IPv4  192.168.0.4
+    IPv6  2001:f:b:a:5ca:a3ff:d244:5ddf
+    IPv6  2001:f:b:a:a0e0:c25a:14a4:642e
+    IPv6  2001:f:b:b:5ca:a3ff:d244:5ddf
+    IPv6  2001:f:b:b::ac
+    IPv6  2001:f:b:b:a0e0:c25a:14a4:642e
+    IPv6  2001:f:b:c:5ca:a3ff:d244:5ddf
+    IPv6  2001:f:b:c:a0e0:c25a:14a4:642e
+    IPv6  2001:f:b:d:5ca:a3ff:d244:5ddf
+    IPv6  2001:f:b:d:a0e0:c25a:14a4:642e
+    IPv6  2001:f:b:e:5ca:a3ff:d244:5ddf
+    IPv6  2001:f:b:e:a0e0:c25a:14a4:642e
+    IPv6  fe80::a0e0:c25a:14a4:642e
+[93m[i][0m Device number 4: (Host)
+    MAC   00:0c:29:8d:e4:6d
+    IPv6  2001:f:b:a:e516:653b:50c3:9c8d
+    IPv6  2001:f:b:b:26d4:8b3d:af4e:847a
+    IPv6  2001:f:b:c:5408:f100:68ab:e418
+    IPv6  2001:f:b:d:ee37:172:a315:9903
+    IPv6  2001:f:b:e:8443:9daa:2158:9769
+    IPv6  fe80::3179:3a32:e87c:605c
+    IPv6  XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XX8d:e46d (possible address)
+[93m[i][0m Device number 5: (Host)
+    MAC   00:0c:29:ab:0f:fa
+    IPv4  192.168.0.7
+    IPv6  2001:f:b:a:8113:10ce:5b30:a7be
+    IPv6  2001:f:b:a:c517:46a5:862a:f730
+    IPv6  2001:f:b:b:8113:10ce:5b30:a7be
+    IPv6  2001:f:b:b::a5
+    IPv6  2001:f:b:b:c517:46a5:862a:f730
+    IPv6  2001:f:b:c:8113:10ce:5b30:a7be
+    IPv6  2001:f:b:c:c517:46a5:862a:f730
+    IPv6  2001:f:b:d:8113:10ce:5b30:a7be
+    IPv6  2001:f:b:d:c517:46a5:862a:f730
+    IPv6  2001:f:b:e:8113:10ce:5b30:a7be
+    IPv6  2001:f:b:e:c517:46a5:862a:f730
+    IPv6  fe80::c517:46a5:862a:f730
+[93m[i][0m Device number 6: (Host)
+    MAC   00:0c:29:e8:8d:81
+    IPv6  2001:f:b:a:20c:29ff:fee8:8d81
+    IPv6  2001:f:b:b::b
+    IPv6  2001:f:b:c:20c:29ff:fee8:8d81
+    IPv6  2001:f:b:d:20c:29ff:fee8:8d81
+    IPv6  2001:f:b:e:20c:29ff:fee8:8d81
+    IPv6  fe80::20c:29ff:fee8:8d81
+[93m[i][0m Device number 7: (Host)
+    MAC   00:50:56:c0:00:02
+    IPv4  192.168.191.1
+    IPv6  fe80::87ee:f1:2dc0:5ff
+[93m[i][0m Device number 8: (Preferred router)
+    MAC   ca:01:06:01:00:00
+    IPv6  2001:f:b:a::1
+    IPv6  2001:f:b:b::1
+    IPv6  2001:f:b:c::1
+    IPv6  2001:f:b:d::1
+    IPv6  2001:f:b:e::1
+    IPv4  8.8.8.8
+    IPv6  fe80::c801:6ff:fe01:0
+[93m[i][0m Removing rules in configuration after scanning
+[93m[i][0m Manual IP configuration is not restored if being set
+[93m[i][0m Aggressive scan ended 
+
